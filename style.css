@@ -1,0 +1,17 @@
+button {
+    background-color: #000000;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+button.subcribed {
+    background-color: #f2f2f2;
+    color: black;
+}
